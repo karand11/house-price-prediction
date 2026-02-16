@@ -1,0 +1,9 @@
+SquareFeet
+Bedrooms
+Bathrooms
+YearBuilt
+Age
+OverallQuality
+Neighborhood
+GarageType
+Basement
