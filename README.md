@@ -207,3 +207,16 @@ If you have suggestions for improving performance, adding deployment features, o
 This project draws inspiration from real-world housing datasets and common regression practices in machine learning.
 
 Special thanks to the open-source Python community and contributors to the machine learning ecosystem.
+
+---
+
+## About the Author
+
+Karan Dhanawade
+Master’s Student — Computer Science (Data Engineering)
+TU Chemnitz
+
+GitHub: https://github.com/karand11/customer-churn-prediction
+
+LinkedIn: https://linkedin.com/in/karan-dhanawade
+
