@@ -216,7 +216,7 @@ Karan Dhanawade
 Master’s Student — Computer Science (Data Engineering)
 TU Chemnitz
 
-GitHub: https://github.com/karand11/customer-churn-prediction
+GitHub: https://github.com/karand11/house-price-prediction
 
 LinkedIn: https://linkedin.com/in/karan-dhanawade
 
